@@ -1,6 +1,6 @@
 const filterByName = require("../src/filterByName")
 describe("Filter function", () => {
-    test("It should filter by a search term (link)", () => {
+    test("It should filter by a search term (name)", () => {
     const input = [
       { id: 0, name: "Faridho" },
       { id: 1, name: "Leonardhio" },
