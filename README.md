@@ -1,5 +1,5 @@
 # Test-Driven Development by JEST
-📌 How to test sofware by JEST. It is a delightful JavaScript Testing Framework with a focus on simplicity - JEST Doc.
+📌 How to test sofware by JEST. It is a delightful JavaScript Testing Framework with a focus on simplicity - JEST Doc
 
 ## Project Setup
 
